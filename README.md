@@ -16,7 +16,7 @@ Building things is my way of bringing ideas to life.
 
 ## 👨‍💻 About Me
 
-I'm Vivek, an MCA graduate and Software Development Engineer passionate about building scalable backend systems, developer tools, and real-world software solutions.
+I'm Vivek, Software Development Engineer passionate about building scalable backend systems, developer tools, and real-world software solutions.
 
 I enjoy exploring backend engineering, distributed systems, cloud computing, networking, and artificial intelligence. I love understanding how things work under the hood, solving engineering challenges, and turning ideas into practical applications.
 
